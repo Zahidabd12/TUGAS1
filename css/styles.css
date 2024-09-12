@@ -27,7 +27,7 @@ body {
 }
 
 .caption-mt .headingl,.caption-mt .headingl .heading3 * {
-    color: rgb(56, 28, 15);
+    color:aliceblue;
     font-size:57px;
     font-family: 'Offside', serif;
     font-weight:400;
@@ -50,7 +50,7 @@ body {
 }
 
 .countdown_timer .fcountdown-timer {
-    color: rgb(56, 28, 15);
+    color:aliceblue;
     font-size:25px;
     font-family: 'Open Sans', monospace;
     font-weight:700;
@@ -66,7 +66,7 @@ body {
 }
 
 .message .text {
-    color: rgb(56, 28, 15);
+    color:aliceblue;
     font-size:18px;
     font-family: 'Offside', serif;
     font-weight:400;text-align:center;
